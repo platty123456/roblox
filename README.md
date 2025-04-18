@@ -1,6 +1,5 @@
-## Roblox Gems and PS99 Trading Guide
+## Roblox Shop Guide
 
-Want to level up faster in Pet Simulator 99?  
-Check out this guide on [buying Roblox gems and PS99 currency](https://roblox-nine-xi.vercel.app/) — it explains how to get gems safely, avoid common scams, and use them for high-value trades.
+Discover the world of avatar customization and game-based shops in Roblox.
 
-Perfect for new players, collectors, or anyone looking to trade smart in Roblox.
+This short guide on [how the Roblox shop works](https://roblox-nine-xi.vercel.app/) explains everything from buying avatar items with Robux to creating your own clothing and accessories. It’s perfect for new players looking to personalize their character or experienced developers interested in selling virtual gear through the Avatar Shop.
